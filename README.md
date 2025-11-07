@@ -123,5 +123,3 @@ PRs welcome. Please open an issue to discuss major changes first.
 ## License
 
 MIT © JAWJI — see [LICENSE](LICENSE)
-
-
