@@ -5,7 +5,7 @@
 <h1 align="center">JAWJI Pilot</h1>
 
 <p align="center">
-  Semi‑Autonomous Drone Delivery Platform — Client & Operator apps with sleek, light glass UI.
+  Semi‑Autonomous Drone Delivery Platform, Client & Operator apps with sleek, light glass UI.
 </p>
 
 <p align="center">
