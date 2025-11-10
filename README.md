@@ -96,13 +96,6 @@ flutter_app/
       operator/ (operator_shell, connected_screen, drone_details_screen, active_delivery)
   pubspec.yaml
 ```
-
----
-
-## Screenshots (WIP)
-
-> Add device screenshots here (Login, Connected Device, Active Delivery, Client Home/Tracking).
-
 ---
 
 ## Roadmap
