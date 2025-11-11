@@ -2,7 +2,7 @@
   <img src="flutter_app/assets/logo.png" alt="JAWJI" width="120" />
 </p>
 
-<h1 align="center">JAWJI Pilot</h1>
+<h1 align="center">SKYLINK</h1>
 
 <p align="center">
   Semi‑Autonomous Drone Delivery Platform, Client & Operator apps with sleek, light glass UI.
